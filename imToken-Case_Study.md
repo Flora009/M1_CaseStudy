@@ -2,9 +2,11 @@
 
 ## Overview and Origin
 
-imToken is a feature-rich digital asset wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value. imToken was established on May 2016, striving to bridge the gap between blockchain technology and general masses with a simple, secure yet powerful digital asset management tool. 
+imToken is a feature-rich digital asset wallet enabling multi-chain asset management, DApp browsing and secure, private exchange of value. 
 
-In the span of 2 years, imToken has expanded our outreach to millions of users from more than 200 countries, becoming the world’s largest Ethereum wallet. 
+Established on May 2016, imToken strives to bridge the gap between blockchain technology and general masses with a simple, secure yet powerful digital asset management tool. 
+
+In the span of 2 years, imToken has expanded the outreach to millions of users from more than 200 countries, becoming the world’s largest Ethereum wallet. 
 
 
 
@@ -21,15 +23,27 @@ In the span of 2 years, imToken has expanded our outreach to millions of users f
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 
+`
+MetaMask Wallet
+* Wallet Type: 
+** Mobile wallet
+** Web Browser wallet
 
-
+`
 
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
-`Encryption
-Blockchain`
+`
+Encryption
+Blockchain
+Multi-chain Asset Managemnet
+dApp Browser
+Network Security
+Hardware Security
+
+`
 
 
 ## Landscape
