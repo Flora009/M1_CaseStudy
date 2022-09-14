@@ -58,7 +58,7 @@ imToken’s ecosystem of products include Tokenlon, an in-app decentralized exch
 
 2. In-app decentralized exchange (DEX): Tokenlon
 
-    * DEX is a decentralized exchange, a peer-to-peer marketplace where transactions occur directly between crypto traders. DEXs fulfill one of crypto’s core possibilities: fostering financial transactions that aren’t officiated by banks, brokers, or any other intermediary. 
+    * DEX stands for decentralized exchange, it is a peer-to-peer marketplace where transactions occur directly between crypto traders. DEXs fulfill one of crypto’s core possibilities: fostering financial transactions that aren’t officiated by banks, brokers, or any other intermediary. 
     * The Tokenlon team was initially part of imToken wallet team, it is a decentralized crypto exchange platform like coinbase, binance, etc.
 
 
@@ -80,7 +80,7 @@ imToken’s ecosystem of products include Tokenlon, an in-app decentralized exch
 
 
 5. Hardware Wallet: imKey
-   imKey is a mobile hardware wallet — mobile in the sense that it’s light and small (fitting into your leather wallet) and equipped with a secure bluetooth channel.
+   * imKey is a mobile hardware wallet — mobile in the sense that it’s light and small (fitting into your leather wallet) and equipped with a secure bluetooth channel.
    * Military-grade CC EAL 6＋ security chip
    * Support imToken
    * Cross-platform Use and Management
@@ -89,7 +89,7 @@ imToken’s ecosystem of products include Tokenlon, an in-app decentralized exch
 
 
 ### Technologies
-Deep knowledge of modern web service development, including networking, cloud services (AWS or GCP), clustering technology (Kubernetes), containerization, databases, programming languages, and cryptography solutions, are all essential to the product design.
+In order to design a secure, fast and user-friendly crypto wallet, the development team needs to be equipped with deep knowledge of modern web service development, including networking, cloud services (AWS or GCP), clustering technology (Kubernetes), containerization, databases, programming languages, and cryptography solutions etc.
 
 ### Challeges
 1. Regulation
@@ -100,7 +100,7 @@ Deep knowledge of modern web service development, including networking, cloud se
    * The banking system has had years to develop anti-fraud mechanisms that help detect a compromised credit card. If irregular spending patterns or locations are showing up on your statement, you would be flagged, whereas there are no such controls with your private key.
 
 3. Technology evolution
-   *  The development team must keep up with the fast growth and disruption of blockchain technologies, emerging crypto coins and dApps
+   *  The development team must keep up with the fast growth and disruption of blockchain technologies, emerging crypto currencies and DApps.
 
 4. Market Education
    * Blockchain products need to lower the barriers to attracting mass-market users, the layperson doesn’t have a strong understanding of how this software works, and may expect similar controls to the conventions they were used to before when utilizing a credit card. That’s why these problems must be solved in order for cryptocurrency solutions to scale to the masses.
@@ -129,7 +129,7 @@ Competition in the crypto wallet domain is fierce. Since crypto wallet is not on
 
 * Trust wallet has a dApp browser that helps you find the best NFT collectibles with a straightforward trading framework. If you are a new wallet user in BEP tokens, the Trust wallet is your best choice. It is one of the best NFT wallets in browser integration to help you exchange your cryptocurrency assets for supported tokens.
 
-* Acquired by Binance on July 2018
+* Acquired by Binance on July 2018. If you have a trading account with Binance, then using Trust Wallet becomes really easier because Trust Wallet is now owned by Binance. So, it supported a lot of coins that Binance offers.
 
 >Ledger Nano X Wallet (Best Hardware Wallet)
 ![ledger](ledger-1.png)
@@ -141,13 +141,13 @@ Competition in the crypto wallet domain is fierce. Since crypto wallet is not on
 
 ## Roadmaps
 1. imToken 1.0
-* The imToken 1.0 wallet `only supported Ethereum tokens based on the ERC20 Token Standard` and, according to imTokens website, became the worlds largest Ethereum wallet.
+* The imToken 1.0 wallet **only supported Ethereum tokens based on the ERC20 Token Standard** and, according to imTokens website, became the worlds largest Ethereum wallet.
 
 2. imToken 2.0
-* imToken 2.0 is a `multi-chain cryptocurrency wallet` that allows users to use one identity to manage multiple wallets with one mnemonic. phrase. The imToken 2.0 wallet retained the functions of imToken 1.0 and added the ability to manage both Ethereum (ETH), Bitcoin (BTC), and EOS (and EOS tokens).  Upon the release of imToken 2.2.1 the wallet introduced biometric verification that allows users to send tokens after verifying their identities with face ID & their fingerprint.
+* imToken 2.0 is a **multi-chain cryptocurrency wallet** that allows users to use one identity to manage multiple wallets with one mnemonic. phrase. The imToken 2.0 wallet retained the functions of imToken 1.0 and added the ability to manage both Ethereum (ETH), Bitcoin (BTC), and EOS (and EOS tokens).  Upon the release of imToken 2.2.1 the wallet introduced biometric verification that allows users to send tokens after verifying their identities with face ID & their fingerprint.
 
 3. imToken 3.0
-* ImToken will use its latest funding to build features for “imToken 3.0.” This will include `keyless accounts, account recovery and a suite of decentralized finance services`. 
+* ImToken will use its latest funding to build features for “imToken 3.0.” This will include **keyless accounts, account recovery and a suite of decentralized finance services**. 
 * It also plans to expand its research arm for blockchain technology, called imToken Labs and open offices in more countries. It currently has a team of 78 people, based in mainland China, the United States and Singapore, and expects to increase its headcount.
 
 ## Vision
@@ -155,6 +155,7 @@ Competition in the crypto wallet domain is fierce. Since crypto wallet is not on
 
 imToken recently hosted an event in Singapore titled “**_Equal Access to the Tokenized World._**” It Will Focus on the Realization of a Web 3.0 “Tokenized World”. 
 
+>
 >_“The wallet is known as ‘the home of Token’ and has played a critical role in assisting users in gaining access to the tokenized world. imToken aims to make the wallet an entryway to attract mass-market consumers._
 
 
@@ -162,37 +163,22 @@ imToken recently hosted an event in Singapore titled “**_Equal Access to the T
 
 Since the technology evolution in Web 3.0 is growing fast, it is with no doubt that digital asset management facilities like crypto wallets will play a more and more important role in our future life.
 
-Key recommendations to imToken will include:
-* Enhance the basic foundations of the wallet product, including:
-  * Network and storage securities
-  * Support more cryptocurries
-  * Integration with more DApps 
-  * Fasten the transaction speed and efficiency by employing new blockchain technologies
+As one of the first movers and dominators in crypto wallet domain, imToken, once said to be the biggest Ethereum crypto wallet in the world, hasn't secured its place among numbers of strong competitors. It originated from China where it gained a large number of seed users in the beginning, but at the moment, the government has banned crypto-related currencies, applications and platforms in China.
 
-As one of the first movers and dominators in crypto wallet domain, imToken, once said to be the biggest Ethereum crypto wallet in the world, hasn't secured its place among numbers of strong competitors. It originated from China where at the moment, the government has banned crypto applications and platforms.
+Key recommendations to imToken will include:
+* Enhance network and storage security, fraud detection and  protections. Asset safety will always be the No.1 priority, especially in the tokenized world, one fraudulent transaction will cost the wallet owner lose all. Those who can protect clients' assets in a safe way will be much more likely to gain the market share. 
+* Support for browser and make the APIs easier for other platforms/DApps to integrate with
+* More branding and marketing campaigns, e.g. the current marketing campaigns conducted by imToken 'Learn to Earn' gives the users free NFT tokens if the users can pass the quiz and get 100/100 points. Marketing activities and campaigns like this will not only educate the users understand more about the features and functions, but also will increase the trust and loyalty of the customers.
 
 
 ### Summary
 
-A more recent survey revealed that there are now 68.42 million blockchain wallet users (Blockchain.com, 2021). The number of blockchain wallet users is expected to further grow in 2022 as mobile accessibility improves rapidly. 
+A more recent survey revealed that there are now 68.42 million blockchain wallet users. Crypto Market Sizing The cryptocurrency market size is expected to grow from USD 1.6 billion in 2021 to USD 2.2 billion by 2026, at a CAGR of 7.1%. 
 
->"*We expect the number of global crypto owners to reach 1 billion by the end of 2022. The global crypto population has increased by +178% in 2021, rising from 106 million in January to 295 million in December.*"
->
->---*Crypto Market Sizing, January 2022*
+Since 2016, imToken has served **14M+** users, with over **$500B** cryptocurrencies exchanged in over 150 countries & regions around the world. 
 
-Furthermore, its acceptance in various markets and industries makes it more attractive to consumers who are increasingly concerned with privacy. Litigation has been slow to protect customers, and blockchain technology is an attractive solution with its relatively secure structure and distributed nature.
+In the next ten to twenty years, blockchain will revolutionize the financial industry on a global scale. We believe that imToken is riding this trend, and has strongly positioned itself in the market.
 
-
-
-Since 2016, imToken has served **14M+** users, with over **$500B** cryptocurrencies exchanged in over 150 countries & regions around the world.
-
->“*imToken has developed its product into one of the top crypto asset wallets in the world with such a sound reputation. We believe it will become a significant infrastructure for the tokenization manifesto, benefiting both the crypto economy and blockchain technology. We’re excited to back imToken.*”  
->
->---*Young Guo, Partner at IDG Capital*
-
->"*In the next ten to twenty years, blockchain will revolutionize the financial industry on a global scale. We believe that imToken is riding this trend, and has strongly positioned itself in the market.*"
->
->---*Duane Kuang, founding managing partner at Qiming Venture Partners*
 
 
 ## Resources
@@ -210,6 +196,8 @@ Since 2016, imToken has served **14M+** users, with over **$500B** cryptocurrenc
 * https://www.ulam.io/blog/custom-cryptocurrency-wallet-development-challenges#:~:text=The%20main%20problems%20crypto%20wallets,the%20wallet%20is%20fully%20compromised.
 * https://crypto.com/research/2021-crypto-market-sizing-report-2022-forecast
 * https://www.coinbase.com/learn/crypto-basics/what-is-staking
+* https://viraltalky.com/trust-wallet-vs-metamask-comparison/ 
+
 
 
 
