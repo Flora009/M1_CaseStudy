@@ -37,7 +37,7 @@ Series B: Mar 30, 2021
 
 ## Business Activities
 
-### Services/Functions Provided
+### Services Provided
 
 Back in 2016, the company started imToken with a small group of people, when Ethereum was still in its early days. They wanted to offer people access to this new and exciting land of possibilities: sending tokens and owning crypto on their own devices.
 
