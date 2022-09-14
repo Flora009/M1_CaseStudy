@@ -85,7 +85,7 @@ imToken’s ecosystem of products include Tokenlon, an in-app decentralized exch
    * Support imToken
    * Cross-platform Use and Management
 
-![imKey](imkey.png)
+![imKey](imkey1.png)
 
 
 ### Technologies
@@ -132,7 +132,9 @@ Competition in the crypto wallet domain is fierce. Since crypto wallet is not on
 * Acquired by Binance on July 2018. If you have a trading account with Binance, then using Trust Wallet becomes really easier because Trust Wallet is now owned by Binance. So, it supported a lot of coins that Binance offers.
 
 >Ledger Nano X Wallet (Best Hardware Wallet)
-![ledger](ledger-1.png)
+
+
+  ![ledger](ledger-1.png)
 
 * Ledger Nano X is a cold wallet where you can store NFTs and cryptocurrency. It is the best NFT wallet for security. Ledger Nano X is an offline wallet that runs on a trading and storage software device. SO, activating the wallet requires an internet connection, but only when confirming your trades.
 
