@@ -43,7 +43,7 @@ Back in 2016, the company started imToken with a small group of people, when Eth
 
 In the very beginning imToken was only a wallet to send and receive ETH and ERC20 tokens. At that time, blockchain was still widely unknown in Asia. But that changed quickly in the following years. Now, they are offering more features and access to more blockchains to their users.
 
-imToken’s ecosystem of products include Tokenlon (), an in-app decentralized exchange (DEX), and a decentralized app (DApp) store.
+imToken’s ecosystem of products include Tokenlon, an in-app decentralized exchange (DEX), and a decentralized app (DApp) store.
 
 
 1. Multi-Chain Wallets Management
@@ -51,6 +51,7 @@ imToken’s ecosystem of products include Tokenlon (), an in-app decentralized e
    * Supporting main stablecoins, like USDT, USDC, DAI, PAX, TUSD, USDX
    * Comprehensive risk control system and wallet protection
    * Third-party security audit
+
 
    ![tokens](tokens-1.png)
 
@@ -66,11 +67,14 @@ imToken’s ecosystem of products include Tokenlon (), an in-app decentralized e
 3. In-app browser-based DApp store
    * imToken has listed 150+ premium DApps
    * Supporting ETH, EOS, TRON DApps
+
+
 ![dapp_browser](dapp_browser-1.png)
 
 
 4. Staking
    * Staking is like a less resource-intensive alternative to mining. It involves holding funds in a cryptocurrency wallet to support the security and operations of a blockchain network. Simply put, staking is the act of locking cryptocurrencies to receive rewards. It's like depositing money in your bank account and receiving interest, though the technical mechanism is quite different.
+
 
    ![staking](staking-1.jpg)
 
@@ -128,7 +132,7 @@ Competition in the crypto wallet domain is fierce. Since crypto wallet is not on
 * Acquired by Binance on July 2018
 
 >Ledger Nano X Wallet (Best Hardware Wallet)
-![ledger](ledger.png)
+![ledger](ledger-1.png)
 
 * Ledger Nano X is a cold wallet where you can store NFTs and cryptocurrency. It is the best NFT wallet for security. Ledger Nano X is an offline wallet that runs on a trading and storage software device. SO, activating the wallet requires an internet connection, but only when confirming your trades.
 
@@ -147,7 +151,7 @@ Competition in the crypto wallet domain is fierce. Since crypto wallet is not on
 * It also plans to expand its research arm for blockchain technology, called imToken Labs and open offices in more countries. It currently has a team of 78 people, based in mainland China, the United States and Singapore, and expects to increase its headcount.
 
 ## Vision
-![vision](vision_and_roadmap.png)
+![vision](vision_and_roadmap-1.png)
 
 imToken recently hosted an event in Singapore titled “**_Equal Access to the Tokenized World._**” It Will Focus on the Realization of a Web 3.0 “Tokenized World”. 
 
