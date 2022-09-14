@@ -155,7 +155,7 @@ Competition in the crypto wallet domain is fierce. Since crypto wallet is not on
 ## Vision
 ![vision](vision_and_roadmap-1.png)
 
-imToken recently hosted an event in Singapore titled “**_Equal Access to the Tokenized World._**” It Will Focus on the Realization of a Web 3.0 “Tokenized World”. 
+imToken recently hosted an event in Singapore titled “**_Equal Access to the Tokenized World._**” It will Focus on the Realization of a Web 3.0 “Tokenized World”. 
 
 >
 >_“The wallet is known as ‘the home of Token’ and has played a critical role in assisting users in gaining access to the tokenized world. imToken aims to make the wallet an entryway to attract mass-market consumers._
