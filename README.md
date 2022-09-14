@@ -18,6 +18,7 @@ In the span of 2 years, imToken has expanded the outreach to millions of users f
 ### Founder
 ![founder-Ben He](founder-BenHe.jpg)
 
+
 The founder of the company is Ben He (Bin He), who has more than ten years of experience in Internet product design and development. Ben is an early member of a blockchain technology research team, which founded a series of successful blockchain startups. He started paying attention to Bitcoin back in 2013 and a year later, the Ethereum platform. He has previously worked with digital currency exchanges, data storage entities, and is currently focusing on smart contract technology and digital asset management.
 
 ### Funding
@@ -51,7 +52,7 @@ imToken’s ecosystem of products include Tokenlon (), an in-app decentralized e
    * Comprehensive risk control system and wallet protection
    * Third-party security audit
 
-   ![tokens](tokens.png)
+   ![tokens](tokens-1.png)
 
 
 2. In-app decentralized exchange (DEX): Tokenlon
@@ -60,16 +61,18 @@ imToken’s ecosystem of products include Tokenlon (), an in-app decentralized e
     * The Tokenlon team was initially part of imToken wallet team, it is a decentralized crypto exchange platform like coinbase, binance, etc.
 
 
-    ![dex](dex.jpg)
+    ![dex](dex-1.jpg)
 
 3. In-app browser-based DApp store
    * imToken has listed 150+ premium DApps
    * Supporting ETH, EOS, TRON DApps
-![dapp_browser](dapp_browser.png)
+![dapp_browser](dapp_browser-1.png)
+
+
 4. Staking
    * Staking is like a less resource-intensive alternative to mining. It involves holding funds in a cryptocurrency wallet to support the security and operations of a blockchain network. Simply put, staking is the act of locking cryptocurrencies to receive rewards. It's like depositing money in your bank account and receiving interest, though the technical mechanism is quite different.
 
-   ![staking](staking.jpg)
+   ![staking](staking-1.jpg)
 
 
 5. Hardware Wallet: imKey
